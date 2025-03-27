@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main() {
     printf ("Hola Mundo\n");
@@ -13,8 +12,6 @@ int main() {
     printf("direccion de memoria del puntero: %p\n", (void*)&puntero);
     printf("el tamano de la memoria es: %d\n", sizeof(numero));
     
-
-    getch();
 
     return 0;
 }
