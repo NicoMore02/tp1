@@ -12,7 +12,7 @@
 *.pif
 *.vb
 *.wsf
-
+*.vscode
 # End of https://www.toptal.com/developers/gitignore/api/executable
 # prueba de ignorar un archivo
 ignorado.txt
