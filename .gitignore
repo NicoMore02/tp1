@@ -14,5 +14,5 @@
 *.wsf
 
 # End of https://www.toptal.com/developers/gitignore/api/executable
-* prueba de ignorar un archivo
+# prueba de ignorar un archivo
 ignorado.txt
